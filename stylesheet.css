@@ -7,7 +7,7 @@ body {
 
 .topnav {
 	overflow: hidden;
-	background-color: black;
+	background-color: rgb(29, 27, 27);
 }
 
 .topnav a {
@@ -34,4 +34,9 @@ p {
 }
 h2{
 	color: white;
+}
+.text{
+	background-color: black;
+	width: 700px;
+	padding: 1px;
 }
