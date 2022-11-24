@@ -29,14 +29,10 @@ body {
 	color: white;
 }
 
-p {
-	color: white;
-}
-h2{
-	color: white;
-}
 .text{
+	max-width: 900px;
+	margin: auto;
+	padding: 10px;
 	background-color: black;
-	width: 700px;
-	padding: 1px;
+	color: white;
 }
