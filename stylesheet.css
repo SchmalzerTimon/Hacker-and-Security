@@ -3,6 +3,8 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	background-color: black;
 	background-image: url('background.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .topnav {
